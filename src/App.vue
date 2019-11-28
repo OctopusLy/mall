@@ -12,7 +12,7 @@ export default {
   data () {  
     return {  
       msg: 'Welcome to mall-github.js App' ,
-      msg2: 'End of Vue.js App'  
+      msg2: '****** 结束符 ******'  
     } 
   }  
 }
